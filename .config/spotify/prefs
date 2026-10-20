@@ -1,0 +1,15 @@
+autologin.username="joinhapvp"
+autologin.saved_credentials="{\"joinhapvp\":[\"joinhapvp\",\"ZoEl6Vactcseo/THzHQfKcB0Dlk/PeInMJMLMCqNGB8KZRaap46p/2yn1Zx1+VtkaO/1Fc6UyidbY+HbVdQ1XpLcbswm4k1fwagTGpvS2CpP5rb8sPy31Mu2uHb6kLuu8mC6MnoJAJi0MxXCarI7UX03zmEBthiBISJtFRNUIqKXT16/FiCdBXD66Rt17A6AFh1hp0UG37JoRKCUrc7Z/Cq/TKJD4ocmbdAQ5ZiSNGea0JCyptqox2Yuq4HZppKO\"]}"
+autologin.canonical_username="joinhapvp"
+autologin.blob="ZoEl6Vactcseo/THzHQfKcB0Dlk/PeInMJMLMCqNGB8KZRaap46p/2yn1Zx1+VtkaO/1Fc6UyidbY+HbVdQ1XpLcbswm4k1fwagTGpvS2CpP5rb8sPy31Mu2uHb6kLuu8mC6MnoJAJi0MxXCarI7UX03zmEBthiBISJtFRNUIqKXT16/FiCdBXD66Rt17A6AFh1hp0UG37JoRKCUrc7Z/Cq/TKJD4ocmbdAQ5ZiSNGea0JCyptqox2Yuq4HZppKO"
+app.window.state.saved=true
+app.window.position.width=1255
+es.send-on-startup=true
+core.clock_delta=0
+storage.last-location="/home/gabrielm/.cache/spotify/Storage"
+app.window.position.x=358
+app.window.position.saved=true
+app.window.position.height=851
+app.window.position.y=175
+app.enable-developer-mode=true
+app.last-launched-version="1.2.96.518.g366879e1"

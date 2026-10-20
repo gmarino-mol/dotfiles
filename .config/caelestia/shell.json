@@ -1,0 +1,71 @@
+{
+    "appearance": {
+        "transparency": {
+            "enabled": false
+        }
+    },
+    "background": {
+        "wallpaperEnabled": true
+    },
+    "bar": {
+        "dragThreshold": 20,
+        "persistent": true,
+        "scrollActions": {
+            "brightness": true
+        },
+        "showOnHover": true
+    },
+    "dashboard": {
+        "showDashboard": true,
+        "showMedia": true,
+        "showWeather": false
+    },
+    "general": {
+        "apps": {
+            "explorer": [
+                "nautilus",
+                "--new-window"
+            ],
+            "terminal": [
+                "kitty"
+            ]
+        }
+    },
+    "paths": {
+        "sessionGif": "~/Pictures/rigby-cat.gif"
+    },
+    "services": {
+        "audioIncrement": 0.05,
+        "smartScheme": true,
+        "useFahrenheit": false,
+        "useTwelveHourClock": false
+    },
+    "session": {
+        "commands": {
+            "hibernate": [
+                "suspend"
+            ],
+            "logout": [
+                "logout"
+            ],
+            "reboot": [
+                "reboot"
+            ],
+            "shutdown": [
+                "poweroff"
+            ]
+        },
+        "dragThreshold": 30,
+        "enabled": true,
+        "icons": {
+            "hibernate": "sleep",
+            "logout": "logout",
+            "reboot": "cached",
+            "shutdown": "power_settings_new"
+        },
+        "vimKeybinds": false
+    },
+    "sidebar": {
+        "enabled": true
+    }
+}
